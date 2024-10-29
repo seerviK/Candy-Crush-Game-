@@ -12,7 +12,7 @@ Welcome to the Candy Crush Game 🎮! This is a colorful, tile-matching game bui
 ⚙️ Installation
  1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/candy-crush-game.git
+    git clone https://github.com/seervik/Candy-Crush-Game.git
  2. Navigate to the project folder:
     ```bash
     cd candy-crush-game
